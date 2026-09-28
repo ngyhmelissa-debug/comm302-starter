@@ -1,0 +1,7 @@
+{
+  "name": "TradingView Market Terminal",
+  "description": "High-density institutional market intelligence terminal featuring real-time index benchmarks, multi-asset screeners, live streaming tickers, performance heatmaps, and interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
